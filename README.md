@@ -132,22 +132,7 @@ change these files to run the website smoothly
 
 `go to gmail and generate app password here`
 `https://myaccount.google.com/apppasswords` 
-
----
-
-## 🧑‍💻 Development Team 
-| Name                                                   | Role                   | Profile                                             |
-| ------------------------------------------------------ | ---------------------- | --------------------------------------------------- |
-| [Vishvesh Shivam](https://github.com/iamvishveshs)      | Full Stack | [LinkedIn](https://www.linkedin.com/in/iamvishveshs)           |
-| [Akshay Kumar](https://github.com/ak-11bhardwaj) | Full Stack    | [LinkedIn](https://www.linkedin.com/in/akshaykumar0405) |
-| [Aayush Chauhan](#)        | Frontend      | [LinkedIn](https://www.linkedin.com/in/aayush-chauhan-804269303)          |
-| [Ayush Sharma](https://github.com/Ayusharma24)   | Frontend    | [LinkedIn](https://www.linkedin.com/in/ayush-sharma-student)  |
-| [Srishti Sharma](https://github.com/SrishtiSharma645)   | Frontend    | [LinkedIn](https://www.linkedin.com/in/srishti-sharma-1593452b2)  |
-| [Mohd. Bilal](#)   | Data Collection, Frontend   | [LinkedIn](https://www.linkedin.com/in/mohd-bilal-264831339)  |
-| [Sujal Mehra](https://github.com/Sujal-Hawkeye)   | Data Collection, Presentation  | [LinkedIn](https://www.linkedin.com/in/sujal-mehra--)  |
-| [Arushi Sood](#)   | Data Collection, Presentation  | [LinkedIn](https://www.linkedin.com/in/arushi-sood-975aa2269)  |
-| [Rizul Thakur](#)   | Data Collection,Report Writting   | [LinkedIn](https://www.linkedin.com/in/rizul-thakur-a5bb57289)  |
-| [Akshika Kapil](#)   | Data Collection,Report Writting   | [LinkedIn](https://www.linkedin.com/in/akshika-kapil-a62b09289)  |
+ 
 
 ---
 
