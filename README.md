@@ -138,5 +138,3 @@ change these files to run the website smoothly
 
 ## 📜 License
 This project is licensed under the **GNU General Public License v3.0**. See the [LICENSE](LICENSE) file for details., 
-
-⭐ Feel free to star this repo if you liked our work!
